@@ -1,7 +1,0 @@
-<?xml version="1.0" standalone="yes"?>
-<DocumentElement>
-  <config>
-    <WcfAddress>http://192.168.1.100:9527</WcfAddress>
-    <LocalAddress>K1</LocalAddress>
-  </config>
-</DocumentElement>
